@@ -6,3 +6,5 @@ Automated Invoice Generator for Google Sheets is a streamlined, zero-subscriptio
 The tutorial is in the Google Sheet once you’ve purchased it
 
 Link : https://yosafatjohn.gumroad.com/l/InvoiceGenerator
+
+
